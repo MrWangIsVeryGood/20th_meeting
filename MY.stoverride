@@ -1,3 +1,16 @@
+name: DIY
+desc: 自定义
+# author: blackmatrix7
+# repo: https://github.com/blackmatrix7/ios_rule_script
+# domain: 5
+# http-request-script: 1
+# http-response-script: 25
+# redirect: 8
+# reject: 660
+# mitm: 694
+# force-http-engine-hosts: 6
+# total: 1399
+
 rules:
     - 'DOMAIN-KEYWORD,openai,马来西亚'
     - 'DOMAIN-KEYWORD,oaistatic,马来西亚'
