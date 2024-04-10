@@ -25,5 +25,4 @@ rules:
     - 'DOMAIN-SUFFIX,githubusercontent.com,Conyss'
     - 'DOMAIN-SUFFIX,microsoft.com,马来西亚'
     - 'DOMAIN-SUFFIX,microsoftonline.com,马来西亚'
-    - 'MATCH,DIRECT'
 #- 'MATCH,DIRECT'
