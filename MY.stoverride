@@ -25,4 +25,4 @@ rules:
     - 'DOMAIN-SUFFIX,pornhub.com,Conyss'
     - 'DOMAIN-SUFFIX,sehuatang.net,Conyss'
     - 'DOMAIN-SUFFIX,speedtest.net,Conyss'
-    - 'MATCH,DIRECT'
+    - 'MATCH,REJECT'
