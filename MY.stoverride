@@ -20,6 +20,7 @@ rules:
     - 'DOMAIN-KEYWORD,jav,Conyss'
     - 'DOMAIN-KEYWORD,pik,Conyss'
 		- 'DOMAIN-SUFFIX,microsoft.com,马来西亚'
+		- 'DOMAIN-SUFFIX,microsoftonline.com,马来西亚'
     - 'DOMAIN-SUFFIX,xhamster.com,Conyss'
     - 'DOMAIN-SUFFIX,pornhub.com,Conyss'
     - 'DOMAIN-SUFFIX,sehuatang.net,Conyss'
