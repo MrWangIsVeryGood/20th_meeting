@@ -36,3 +36,4 @@ rules:
     - 'DOMAIN-SUFFIX,appcenter.ms,马来西亚'
     - 'DOMAIN-SUFFIX,app-analytics-services.com,马来西亚'
     - 'DOMAIN-SUFFIX,sentry.io,马来西亚'
+		- 'DOMAIN-KEYWORD,perplexity,马来西亚'
