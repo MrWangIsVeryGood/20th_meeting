@@ -37,3 +37,6 @@ rules:
     - 'DOMAIN-SUFFIX,app-analytics-services.com,新加坡01'
     - 'DOMAIN-SUFFIX,sentry.io,新加坡01'
     - 'DOMAIN-KEYWORD,perplexity,新加坡01'
+    - 'DOMAIN-SUFFIX,ubuntu.com,新加坡01'
+    - 'DOMAIN-SUFFIX,gnome.org,新加坡01'
+    - 'DOMAIN-KEYWORD,jetbrains,新加坡01'
