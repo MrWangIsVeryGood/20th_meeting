@@ -40,3 +40,4 @@ rules:
     - 'DOMAIN-SUFFIX,ubuntu.com,新加坡01'
     - 'DOMAIN-SUFFIX,gnome.org,新加坡01'
     - 'DOMAIN-KEYWORD,jetbrains,新加坡01'
+    - 'DOMAIN-KEYWORD,snapcraft,新加坡01'
