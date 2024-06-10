@@ -20,7 +20,7 @@ rules:
     - 'DOMAIN-SUFFIX,spankbang.com,Google'
     - 'DOMAIN-SUFFIX,speedtest.net,Google'
     - 'DOMAIN-SUFFIX,githubusercontent.com,Google'
-    - 'DOMAIN-KEYWORD,perplexity,OpenAI'
+    - 'DOMAIN-KEYWORD,perplexity,Disney'
     - 'DOMAIN-SUFFIX,ubuntu.com,Google'
     - 'DOMAIN-SUFFIX,gnome.org,Google'
     - 'DOMAIN-KEYWORD,jetbrains,Google'
