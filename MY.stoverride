@@ -48,7 +48,7 @@ rules:
     - 'RULE-SET,Steam,Steam'
     - 'RULE-SET,SteamCN,DIRECT'
     - 'RULE-SET,Google,Google'
-    - 'RULE-SET,Telegram,Telegram'
+		- 'RULE-SET,Telegram,Telegram'
     - 'RULE-SET,YouTube,Google'
     - 'RULE-SET,OpenAI,OpenAI'
     - 'RULE-SET,Microsoft,Microsoft'
