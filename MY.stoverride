@@ -14,6 +14,7 @@ desc: 自定义
 rules:
     - 'DOMAIN-KEYWORD,jav,Google'
     - 'DOMAIN-KEYWORD,pik,Google'
+    - 'DOMAIN-SUFFIX,x.ai,Google'
     - 'DOMAIN-SUFFIX,xhamster.com,Google'
     - 'DOMAIN-SUFFIX,missav.com,Google'
     - 'DOMAIN-SUFFIX,sehuatang.net,Google'
