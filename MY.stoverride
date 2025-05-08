@@ -49,6 +49,7 @@ rules:
     - 'DOMAIN-KEYWORD,linkedin,SSRDOG'
     - 'RULE-SET,Steam,Steam'
     - 'RULE-SET,SteamCN,DIRECT'
+    - 'DOMAIN-KEYWORD,xiaohongshu,DIRECT'
     - 'RULE-SET,Google,Google'
     - 'RULE-SET,Telegram,Telegram'
     - 'RULE-SET,YouTube,Google'
