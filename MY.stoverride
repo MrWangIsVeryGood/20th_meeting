@@ -16,6 +16,7 @@ rules:
     - 'DOMAIN-KEYWORD,pik,Google'
     - 'DOMAIN-SUFFIX,x.ai,Google'
     - 'DOMAIN-SUFFIX,xhamster.com,Google'
+    - 'DOMAIN-SUFFIX,xhcdn.com,Google'
     - 'DOMAIN-SUFFIX,missav.com,Google'
     - 'DOMAIN-SUFFIX,sehuatang.net,Google'
     - 'DOMAIN-SUFFIX,spankbang.com,Google'
