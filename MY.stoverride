@@ -12,6 +12,7 @@ desc: 自定义
 # total: 1399
 
 rules:
+    - 'RULE-SET, OpenAI, SSRDOG'
     - 'DOMAIN-KEYWORD,speedtest,DIRECT'
     - 'DOMAIN-KEYWORD,jav,SSRDOG'
     - 'DOMAIN-KEYWORD,pik,SSRDOG'
