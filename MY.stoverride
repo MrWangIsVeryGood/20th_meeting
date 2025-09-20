@@ -52,7 +52,7 @@ rules:
     - 'DOMAIN-KEYWORD,linkedin,SSRDOG'
     - 'DOMAIN-KEYWORD,xiaohongshu,DIRECT'
     - 'RULE-SET,Google,SSRDOG'
-    - 'RULE-SET,Telegram,Telegram'
+    - 'RULE-SET,Telegram,SSRDOG'
     - 'RULE-SET,YouTube,SSRDOG'
     - 'RULE-SET,OpenAI,SSRDOG'
     - 'RULE-SET,Microsoft,SSRDOG'
