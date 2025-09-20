@@ -12,7 +12,7 @@ desc: 自定义
 # total: 1399
 
 rules:
-		- 'DOMAIN-KEYWORD,speedtest,DIRECT'
+    - 'DOMAIN-KEYWORD,speedtest,DIRECT'
     - 'DOMAIN-KEYWORD,jav,Google'
     - 'DOMAIN-KEYWORD,pik,Google'
     - 'DOMAIN-SUFFIX,x.ai,Google'
