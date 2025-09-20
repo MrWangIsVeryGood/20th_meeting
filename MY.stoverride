@@ -50,7 +50,6 @@ rules:
     - 'DOMAIN,cai-splunk-proxy.adobe.io,REJECT'
     - 'DOMAIN-KEYWORD,sjtu.edu.cn,DIRECT'
     - 'DOMAIN-KEYWORD,linkedin,Google'
-    - 'RULE-SET,Steam,Google'
     - 'RULE-SET,SteamCN,DIRECT'
     - 'DOMAIN-KEYWORD,xiaohongshu,DIRECT'
     - 'RULE-SET,Google,Google'
