@@ -12,6 +12,7 @@ desc: 自定义
 # total: 1399
 
 rules:
+    - 'DOMAIN-KEYWORD,tube,SSRDOG'
     - 'DOMAIN-KEYWORD,openai,SSRDOG'
     - 'DOMAIN-KEYWORD,chatgpt,SSRDOG'
     - 'DOMAIN-KEYWORD,oai,SSRDOG'
